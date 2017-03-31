@@ -5,6 +5,7 @@
   background-color: #F5F5F5;
   font-family: 'Raleway', sans-serif !important;
   margin-bottom: 40px;
+  display: flex;
 }
 .row {
   vertical-align: middle;
