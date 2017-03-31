@@ -1,8 +1,3 @@
-.headline {
-  margin-top: 80px;
-  align-content: center;
-  text-align: center;
-}
 .navbar {
   background-color: #F5F5F5;
   font-family: 'Raleway', sans-serif !important;
@@ -11,7 +6,7 @@
 }
 .row {
   vertical-align: middle;
-  max-width: 100%;
+  width: 100%;
   align-items: center;
 }
 p {
@@ -26,6 +21,11 @@ h4 {
 .brandLogo {
   max-width: 150px;
   margin-top: 2px;
+}
+.headline {
+  margin-top: 80px;
+  align-content: center;
+  text-align: center;
 }
 .ngoName {
   display: table-cell;
@@ -60,6 +60,7 @@ h4 {
   background-color: #F5F5F5;
   margin-bottom: 30px;
   border-radius: 10px;
+  max-width: 250px;
 }
 .footer {
   position: relative;
